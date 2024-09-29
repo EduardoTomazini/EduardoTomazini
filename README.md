@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Eduardo 👋
 
-<!--
-**EduardoTomazini/EduardoTomazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou um estudante de Engenharia da computação apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** [Dart, Python, Java, C, C++]
+- **Frameworks:** [Flutter]
+- **Ferramentas:** [Git, Docker,]
+- **Banco de Dados:** [MySQL, PostgreSQL]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Estou Aprendendo
+Atualmente, estou estudando [Flutter].
+
+## 💬 Vamos conversar!
+Estou sempre aberto a colaborar em projetos ou discutir novas ideias. Sinta-se à vontade para entrar em contato!
+
+---
+
+Obrigado por visitar meu perfil! 🚀
